@@ -1,0 +1,6 @@
+= power-select-multiple [
+  options=select_options
+  onchange=(action 'loggingInput')
+] as |option select|
+  li.option
+    = mark-search option select.searchText
