@@ -1,6 +1,5 @@
-h4 Debugging Unclickable Mark Object - Power Select Option
-
+h4 Debugging Unclickable Mark Object - PowerSelect Option
 = power-select-test
 
-
-/ <!-- {{outlet}} -->
+h4 Debugging Unclickable Mark Object - mark-search only option
+= mark-search-no-power-select
